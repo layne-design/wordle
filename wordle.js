@@ -223,3 +223,5 @@ for (let i = 0; i < guessLetters.length; i++) {
 getWordOfTheDay();
 console.log(wordOfTheDay);
 document.getElementById(currentId).focus();
+
+//this note won't be here after rollback
